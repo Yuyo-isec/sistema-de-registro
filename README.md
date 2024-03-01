@@ -5,3 +5,5 @@
 para ejecutar el sistema, debe poner:
 
 ```npr install all```
+
+sistema de registro 2
